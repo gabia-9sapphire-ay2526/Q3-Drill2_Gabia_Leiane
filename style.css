@@ -1,0 +1,14 @@
+.border {
+  background-color: white;
+  width: 750px;
+  border-radius: 25px;
+  border: 15px solid #15292E;
+  padding: 20px;
+  margin: 20px;
+}
+
+body {
+    background-image: url(https://i.pinimg.com/1200x/2f/b6/23/2fb623b5ab11f0ee86e6eac88c05bce2.jpg);
+    background-repeat: no-repeat;
+    background-size: auto
+}
